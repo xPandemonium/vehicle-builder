@@ -31,9 +31,7 @@ npm run start
 
 You can use this application to interact with different vehicles set custom properties for them. Can be used to catalogue vehicles to use as needed. For a full run down of whats available, 
 
-Watch this Demo!
-
-> Demo coming soon
+Watch this [Demo](https://drive.google.com/file/d/1TaTMfhBxQqbeHND-2qL4o_0mzcGofQQw/view?usp=drive_link)!
 
 ## Contributions
 
